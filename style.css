@@ -1,9 +1,9 @@
 header {
-    background-color: aqua;
+    background-color: rgb(153, 255, 0);
 }
 
 body {
-    background-color: bisque;
+    background-color: rgb(235, 255, 196);
 }
 
 .estudante-div {
@@ -27,16 +27,16 @@ body {
 }
 
 h1, h2, h3 {
-    color: #3771ed;
+    color: #37ed61;
     font-weight: 700;
 }
 
 a:hover {
-    color: #e80a0a;
+    color: #e85b0a;
 }
 
 footer {
-    background-color: chartreuse;
+    background-color: rgb(212, 0, 255);
 }
 
 .rodape {
